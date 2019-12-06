@@ -86,3 +86,6 @@ Once in the `gfsh` terminal:
 - `list members` displays all members (locators, servers) that are part of the cluster
 - `list regions` displays all regions that have been created
 - `query --query="<oql here>"` executes a query ([OQL help](http://geode.apache.org/docs/guide/13/developing/querying_basics/query_basics.html))
+
+
+https://www.e4developer.com/2018/02/28/spring-cloud-data-flow-use-cases/
